@@ -1,0 +1,3 @@
+- Pra que que serve <div></div> e o <span></span>
+
+- A unica diferença de id e class são as espeficidade/hierarquia?
